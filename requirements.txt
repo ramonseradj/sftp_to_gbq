@@ -1,0 +1,11 @@
+# Function dependencies, for example:
+# package>=version
+pandas
+pandas_gbq
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+fsspec
+gcsfs
+requests
+pysftp
